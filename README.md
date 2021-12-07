@@ -8,3 +8,7 @@ Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-p
 
 Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip). Unzip the folder and place it in the home directory, at location /lfw.
 
+
+![sample-dog-output](https://user-images.githubusercontent.com/77448625/145007408-ec81614f-04c9-434d-8232-06bb033a7c04.png)
+
+
